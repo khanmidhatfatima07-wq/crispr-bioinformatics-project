@@ -20,5 +20,8 @@ CRISPR gRNA design Project-bioinformatics Bootcamp
  - visualized cut sites clearly using snapgene.
 
 ### This was my first bioinformatic project. I used online tools for gRNA design and visualization.
-All the important files,tables are organized in their respective folders. 
- 
+### All the important files are stored in repository 
+ -TP53_gene
+ -results.tsv
+ - tables.tsv
+   
